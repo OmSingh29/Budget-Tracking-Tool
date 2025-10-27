@@ -5,11 +5,6 @@
 
 The Budget-Expense Tracker is a simple, user-friendly React application that allows users to efficiently track and manage their expenses based on defined budgets. With this app, you can set up multiple budget categories (e.g., Groceries, Education) and track individual expenses within them, helping you maintain control over your finances.
 
-## 📸 Demo
-
-
-
-*(Add a screenshot or GIF of your application here to show what it looks like!)*
 
 ---
 
@@ -42,14 +37,13 @@ You must have [Node.js](https://nodejs.org/) (which includes npm) installed on y
 ### Installation
 
 1.  **Clone the repository:**
-    (Replace `YOUR_USERNAME/YOUR_REPOSITORY_NAME` with your actual repo details)
     ```sh
-    git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
+    git clone https://github.com/OmSingh29/Budget-Tracking-Tool.git
     ```
 
 2.  **Navigate to the project directory:**
     ```sh
-    cd YOUR_REPOSITORY_NAME
+    cd Budget-Tracking-Tool
     ```
 
 3.  **Install dependencies:**
@@ -78,3 +72,4 @@ You must have [Node.js](https://nodejs.org/) (which includes npm) installed on y
 ## 📄 License
 
 This project is licensed under the MIT License.
+
